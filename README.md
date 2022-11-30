@@ -4,7 +4,7 @@
 [![Download](https://img.shields.io/github/v/release/celetor/tvbox-build?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/celetor/tvbox-build/releases/latest) 
 [![Total](https://shields.io/github/downloads/celetor/tvbox-build/total?logo=Bookmeter&label=Counts&logoColor=blue&color=blue)](https://github.com/celetor/tvbox-build/releases)
 
-+ Update Time: 2022/11/29 15:20
++ Update Time: 2022/11/30 10:36
 + [lanzouCloud](https://wwi.lanzoup.com/b0dah3rlc)  Password: `celetor`
 
 ## Credits
